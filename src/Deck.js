@@ -3,7 +3,7 @@ import Card from './Card';
 import './Deck.css';
 import axios from "axios";
 
-const API_BASE_URL = "http://deckofcardsapi.com/api/deck/";
+const API_BASE_URL = "https://deckofcardsapi.com/api/deck/";
 
 export default class Deck extends Component {
     constructor(props){

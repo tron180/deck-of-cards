@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deck-of-cards/static/css/main.e306f9ea.chunk.css",
+    "main.js": "/deck-of-cards/static/js/main.03a821e5.chunk.js",
+    "main.js.map": "/deck-of-cards/static/js/main.03a821e5.chunk.js.map",
+    "runtime~main.js": "/deck-of-cards/static/js/runtime~main.bce7395b.js",
+    "runtime~main.js.map": "/deck-of-cards/static/js/runtime~main.bce7395b.js.map",
+    "static/js/2.b8f9b95f.chunk.js": "/deck-of-cards/static/js/2.b8f9b95f.chunk.js",
+    "static/js/2.b8f9b95f.chunk.js.map": "/deck-of-cards/static/js/2.b8f9b95f.chunk.js.map",
+    "index.html": "/deck-of-cards/index.html",
+    "precache-manifest.cf42722e2c1c9fde75741d85690bdcf5.js": "/deck-of-cards/precache-manifest.cf42722e2c1c9fde75741d85690bdcf5.js",
+    "service-worker.js": "/deck-of-cards/service-worker.js",
+    "static/css/main.e306f9ea.chunk.css.map": "/deck-of-cards/static/css/main.e306f9ea.chunk.css.map"
+  }
+}
